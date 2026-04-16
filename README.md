@@ -1,5 +1,5 @@
 
-# Production-Level Online Judge System
+# Online Judge System
 
 ## Features
 - Multi-language support (C++, Python)
@@ -25,7 +25,7 @@ POST /submit
   "input": "2 3"
 }
 
-## Interview Points
+## HIGHLIGHTS
 - Scalable queue system using Redis
 - Secure execution via Docker isolation
 - Worker horizontal scaling possible
